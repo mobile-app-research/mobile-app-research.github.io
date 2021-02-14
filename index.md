@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Mobile Gambling Apps Research
 
 You can use the [editor on GitHub](https://github.com/mobile-app-research/mobile-app-research.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
