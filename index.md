@@ -12,7 +12,13 @@ This research is focuses on mobile gambling apps. In this paper, we first perfor
 Our research were presented on the 30th The Web Conference. Please, use the following bibtex reference to cite our paper:
 
 ```
-Yuhao Gao, Haoyu Wang, Li Li, Xiapu Luo, Guoai Xu, and Xuanzhe Liu.2021. Demystifying Illegal Mobile Gambling Apps. In Proceedings of the Web Conference 2021 (WWW '21), April 19–23, 2021, Ljubljana, Slovenia.ACM, New York, NY, USA, 12 pages. https://doi.org/10.1145/3442381.3449932
+@inproceedings{gao2021demystifying,
+  title={Demystifying Illegal Mobile Gambling Apps},
+  author={Gao, Yuhao and Wang, Haoyu and Li, Li and Luo, Xiapu and Xu, Guoai and Liu, Xuanzhe},
+  booktitle={Proceedings of the Web Conference 2021},
+  pages={1447--1458},
+  year={2021}
+}
 ```
 
 ### Dataset
