@@ -3,5 +3,3 @@ plugins:
 - jekyll-remote-theme
 title: mobile-app-research.tech
 show_downloads: false
-# Google Analytics
-google_analytics: G-QY4D8H25JH
