@@ -2,8 +2,13 @@
 
 This site hosts the datasets of our research on mobile apps. You can download datasets and get other information in following sections. 
 
+## Demystifying the Underground Ecosystem of Account Registration Bots (ESEC/FSE '22)
 
-## Demystifying Illegal Mobile Gambling Apps
+### Publication
+### Dataset
+### Email
+
+## Demystifying Illegal Mobile Gambling Apps (WWW '21)
 
 This research is focuses on mobile gambling apps. In this paper, we first perform a 5-month dataset collection process to harvest illegal gambling apps in China, which includes 3,366 unique gambling apps with 5,344 different versions. We then characterize the gambling apps from various perspectives including app distribution channels, network infrastructure, malicious behaviors, abused third-party and payment services. 
 
